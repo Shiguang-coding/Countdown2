@@ -4,7 +4,7 @@
 
 
 
-![./images/demo.png]()
+![images/demo.png]()
 
 
 
