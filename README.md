@@ -4,7 +4,7 @@
 
 
 
-![images/demo.png]()
+![demo.png](https://github.com/Shiguang-coding/Countdown2/blob/main/images/demo.png)
 
 
 
