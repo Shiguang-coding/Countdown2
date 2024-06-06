@@ -10,7 +10,7 @@
 
 # 在线预览
 
-https://countdown1.shiguang666.eu.org/
+https://countdown2.shiguang666.eu.org/
 
 # 免责说明
 
